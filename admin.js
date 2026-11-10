@@ -14,7 +14,7 @@
   "use strict";
 
   var PIN = "6716";   // <-- CHANGE THIS to your own PIN
-  var HOTKEY = "E";   // Ctrl + Shift + this letter
+  var HOTKEY = "Z";   // Ctrl + Shift + this letter
 
   // Text that can be edited. Merch sketches are drawn by script, so they are not included.
   var EDITABLE = [
